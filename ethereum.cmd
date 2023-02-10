@@ -1,5 +1,5 @@
 @Echo off
-title Ethereum AiO Attacker [MMDRZA.CoM]
+title SUUUUUUUUUUUUUIIIIIIIIIIIIIIIII
 Pushd "%~dp0"
 :loop
 python ethereum.py
